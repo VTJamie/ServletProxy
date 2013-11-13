@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-modules id="moduleCoreId" project-version="2.0">
+	<wb-module deploy-name="ServletProxy">
+		<property name="context-root" value="ServletProxy"/>
+		<wb-resource deploy-path="/WEB-INF/classes" source-path="src/main/resources"/>
+		<wb-resource deploy-path="/WEB-INF/classes" source-path="src/main/java"/>
+		<wb-resource deploy-path="/" source-path="src/main/webapp"/>
+		<dependent-module deploy-path="/WEB-INF/lib" handle="module:/classpath/lib//Users/jdabbott/.gradle/caches/artifacts-24/filestore/org.apache.httpcomponents/httpclient/4.1.2/jar/9003011c1b6d28a7331f04251a25e7ccf63c98f8/httpclient-4.1.2.jar">
+			<dependency-type>uses</dependency-type>
+		</dependent-module>
+		<dependent-module deploy-path="/WEB-INF/lib" handle="module:/classpath/lib//Users/jdabbott/.gradle/caches/artifacts-24/filestore/javax.servlet/servlet-api/2.4/jar/3fc542fe8bb8164e8d3e840fe7403bc0518053c0/servlet-api-2.4.jar">
+			<dependency-type>uses</dependency-type>
+		</dependent-module>
+		<dependent-module deploy-path="/WEB-INF/lib" handle="module:/classpath/lib//Users/jdabbott/.gradle/caches/artifacts-24/filestore/commons-logging/commons-logging/1.1.1/jar/5043bfebc3db072ed80fbd362e7caf00e885d8ae/commons-logging-1.1.1.jar">
+			<dependency-type>uses</dependency-type>
+		</dependent-module>
+		<dependent-module deploy-path="/WEB-INF/lib" handle="module:/classpath/lib//Users/jdabbott/.gradle/caches/artifacts-24/filestore/org.apache.httpcomponents/httpcore/4.1.2/jar/39e30fb2ddfcf32b9dd663039ca6e847b698aa6f/httpcore-4.1.2.jar">
+			<dependency-type>uses</dependency-type>
+		</dependent-module>
+		<dependent-module deploy-path="/WEB-INF/lib" handle="module:/classpath/lib//Users/jdabbott/.gradle/caches/artifacts-24/filestore/commons-codec/commons-codec/1.4/jar/4216af16d38465bbab0f3dff8efa14204f7a399a/commons-codec-1.4.jar">
+			<dependency-type>uses</dependency-type>
+		</dependent-module>
+	</wb-module>
+</project-modules>

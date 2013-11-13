@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="output" path="bin"/>
+	<classpathentry kind="src" path="src/main/java"/>
+	<classpathentry kind="src" path="src/main/resources"/>
+	<classpathentry kind="src" path="src/test/java"/>
+	<classpathentry kind="src" path="src/test/resources"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER" exported="true"/>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.web.container" exported="true"/>
+	<classpathentry sourcepath="/Users/jdabbott/.gradle/caches/artifacts-24/filestore/javax.servlet/servlet-api/2.4/source/f37965508b58253b45c8accc02cd6c652380545f/servlet-api-2.4-sources.jar" kind="lib" path="/Users/jdabbott/.gradle/caches/artifacts-24/filestore/javax.servlet/servlet-api/2.4/jar/3fc542fe8bb8164e8d3e840fe7403bc0518053c0/servlet-api-2.4.jar" exported="true">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.nondependency" value=""/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="/Users/jdabbott/.gradle/caches/artifacts-24/filestore/org.apache.httpcomponents/httpclient/4.1.2/source/dc49f8801031e5318f9487e2aa9e23a301c39dcd/httpclient-4.1.2-sources.jar" kind="lib" path="/Users/jdabbott/.gradle/caches/artifacts-24/filestore/org.apache.httpcomponents/httpclient/4.1.2/jar/9003011c1b6d28a7331f04251a25e7ccf63c98f8/httpclient-4.1.2.jar" exported="true">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.nondependency" value=""/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="/Users/jdabbott/.gradle/caches/artifacts-24/filestore/junit/junit/4.8.2/source/cccca612a66b8387c399be31d69daf000de2ac9e/junit-4.8.2-sources.jar" kind="lib" path="/Users/jdabbott/.gradle/caches/artifacts-24/filestore/junit/junit/4.8.2/jar/c94f54227b08100974c36170dcb53329435fe5ad/junit-4.8.2.jar" exported="true">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.nondependency" value=""/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="/Users/jdabbott/.gradle/caches/artifacts-24/filestore/httpunit/httpunit/1.7/source/48055f7695f34e1660f1f1bd657f021995fb6d8e/httpunit-1.7-sources.jar" kind="lib" path="/Users/jdabbott/.gradle/caches/artifacts-24/filestore/httpunit/httpunit/1.7/jar/2030058ecce7aea03442cd5b40782ab94e1008f5/httpunit-1.7.jar" exported="true">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.nondependency" value=""/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="/Users/jdabbott/.gradle/caches/artifacts-24/filestore/log4j/log4j/1.2.16/source/bf945d1dc995be7fe64923625f842fbb6bf443be/log4j-1.2.16-sources.jar" kind="lib" path="/Users/jdabbott/.gradle/caches/artifacts-24/filestore/log4j/log4j/1.2.16/bundle/7999a63bfccbc7c247a9aea10d83d4272bd492c6/log4j-1.2.16.jar" exported="true">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.nondependency" value=""/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="/Users/jdabbott/.gradle/caches/artifacts-24/filestore/org.apache.httpcomponents/httpcore/4.1.2/source/b3141b5e74071e25f0f5bb337fa2ceae580bfc35/httpcore-4.1.2-sources.jar" kind="lib" path="/Users/jdabbott/.gradle/caches/artifacts-24/filestore/org.apache.httpcomponents/httpcore/4.1.2/jar/39e30fb2ddfcf32b9dd663039ca6e847b698aa6f/httpcore-4.1.2.jar" exported="true">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.nondependency" value=""/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="/Users/jdabbott/.gradle/caches/artifacts-24/filestore/commons-logging/commons-logging/1.1.1/source/f3f156cbff0e0fb0d64bfce31a352cce4a33bc19/commons-logging-1.1.1-sources.jar" kind="lib" path="/Users/jdabbott/.gradle/caches/artifacts-24/filestore/commons-logging/commons-logging/1.1.1/jar/5043bfebc3db072ed80fbd362e7caf00e885d8ae/commons-logging-1.1.1.jar" exported="true">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.nondependency" value=""/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="/Users/jdabbott/.gradle/caches/artifacts-24/filestore/commons-codec/commons-codec/1.4/source/5310da9f90e843883309e9e0bf5950faa79882a0/commons-codec-1.4-sources.jar" kind="lib" path="/Users/jdabbott/.gradle/caches/artifacts-24/filestore/commons-codec/commons-codec/1.4/jar/4216af16d38465bbab0f3dff8efa14204f7a399a/commons-codec-1.4.jar" exported="true">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.nondependency" value=""/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="/Users/jdabbott/.gradle/caches/artifacts-24/filestore/jtidy/jtidy/4aug2000r7-dev/source/e0e05e9f1bf11a9d0357038ac4f497912c96f63f/jtidy-4aug2000r7-dev-sources.jar" kind="lib" path="/Users/jdabbott/.gradle/caches/artifacts-24/filestore/jtidy/jtidy/4aug2000r7-dev/jar/2aecd44e0c3a7fdcf0ec19f7c58f37a07798f01f/jtidy-4aug2000r7-dev.jar" exported="true">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.nondependency" value=""/>
+		</attributes>
+	</classpathentry>
+</classpath>
